@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import Authenticate from './Authenticate';
-import SignUpForm from './SignUpForm';
+import Authenticate from './components/Authenticate';
+import SignUpForm from './components/SignUpForm';
 import './App.css'
 
 export default function App() {
